@@ -70,3 +70,6 @@ h2 {
     transform: scale(1.08);
     box-shadow: 0 8px 15px rgba(255, 51, 133, 0.4);
 }
+.boton:active {
+    transform: scale(0.95);
+}
