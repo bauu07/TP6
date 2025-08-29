@@ -21,3 +21,15 @@ h2 {
     gap: 25px;
     padding: 30px;
 }
+.producto {
+    background: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    box-shadow: 0 5px 15px rgba(255, 105, 180, 0.2);
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
