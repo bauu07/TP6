@@ -10,3 +10,8 @@ h1{
     margin: 20px 0;
     text-shadow: 2px 2px 5px rgba(255, 105, 180, 0.2);
 }
+h2 {
+    color: #ff277d;
+    margin: 20px 0;
+    text-shadow: 2px 2px 5px rgba(255, 105, 180, 0.2);
+}
