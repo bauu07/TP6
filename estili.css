@@ -35,4 +35,9 @@ h2 {
 .producto:hover {
     transform: translateY(-8px);
 }
-
+.producto img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover; 
+    border-radius: 10px;
+}
