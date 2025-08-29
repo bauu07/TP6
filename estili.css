@@ -42,3 +42,14 @@ h2 {
     border-radius: 10px;
     margin: 0 auto 10px auto;
 }
+.precio {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff3385;
+    background: #ffe6f2;
+    padding: 8px 12px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 10px 0;
+    animation: brillar 2s infinite;
+}
