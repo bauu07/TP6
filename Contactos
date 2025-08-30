@@ -1,0 +1,47 @@
+css
+body {
+  font-family: Arial, sans-serif;
+  background: #da83aa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.contact-container {
+  display: flex;
+  gap: 20px;
+}
+
+.contact-item {
+  background: #fccfe3;
+  padding: 20px;
+  border-radius: 15px;
+  text-align: center;
+  width: 180px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.contact-item:hover {
+  transform: translateY(-5px);
+}
+
+.contact-item i {
+  font-size: 40px;
+  color: #2e2929;
+  margin-bottom: 10px;
+  transition: color 0.3s;
+}
+.contact-item h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+  color: #2e2929;
+}
+
+.contact-item p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
