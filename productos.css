@@ -74,7 +74,7 @@ h1, h2 {
     100% { box-shadow: 0 0 5px #ff80bf; }
 }
 
-/* Botones con animación === */
+/* Botones con animación */
 .boton {
     background: linear-gradient(135deg, #ff66a3, #ff99cc);
     border: none;
