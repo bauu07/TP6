@@ -34,10 +34,6 @@ h1, h2 {
     justify-content: space-between;
 }
 
-/* Efecto hover */
-.producto:hover {
-    transform: translateY(-8px);
-}
 
 /*  Imagen de producto */
 .producto img {
@@ -88,17 +84,6 @@ h1, h2 {
     margin-top: auto;
 }
 
-/* Hover */
-.boton:hover {
-    background: linear-gradient(135deg, #ff3385, #ff66b2);
-    transform: scale(1.08);
-    box-shadow: 0 8px 15px rgba(255, 51, 133, 0.4);
-}
-
-/* Active (clic) */
-.boton:active {
-    transform: scale(0.95);
-}
 
 /* Menú categorías */
 .menucategorias a {
