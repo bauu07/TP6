@@ -13,7 +13,13 @@ h1, h2 {
     text-shadow: 2px 2px 5px rgba(255, 105, 180, 0.2);
 }
 
-
+/*  Grid de productos  */
+.productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 25px;
+    padding: 30px;
+}
 
 /* Tarjeta de producto */
 .producto {
